@@ -38,5 +38,3 @@ Una aplicación meteorológica de vanguardia construida con **React**, **Vite**,
 - `src/index.css`: Sistema de diseño y estilos personalizados.
 - `src/api.test.js`: Suite de pruebas unitarias.
 
----
-Desarrollado con ❤️ por **Antigravity IA** para el curso de Programación.
